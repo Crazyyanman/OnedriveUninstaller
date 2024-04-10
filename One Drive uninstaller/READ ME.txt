@@ -1,0 +1,5 @@
+ONE DRIVE UNINSTALLER
+
+Made by Rocco - github
+
+The requirements are all installed into the exe file, just run it. 
